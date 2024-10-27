@@ -1,5 +1,8 @@
 # OB_04_SOLID
-### [Game_WarMir_OB04_SOLID.py](Game_WarMir_OB04_SOLID.py)" >> README.md
+### Разбор игры с Наставником
+[GameNastavnikUchit_WarMir_OB04_SOLID.py](GameNastavnikUchit_WarMir_OB04_SOLID.py)
+
+### Моя игра сам делал [Game_WarMir_OB04_SOLID.py](Game_WarMir_OB04_SOLID.py)
 Game_WarMir_OB04_SOLID.py
  SOLID — это акроним, представляющий пять основных принципов объектно-ориентированного программирования и дизайна, направленных на улучшение разработки системы, сделав её более понятной, гибкой и поддерживаемой
  Принцип открытости-закрытости (OCP) в программировании
